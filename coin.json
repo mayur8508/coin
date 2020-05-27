@@ -2,28 +2,28 @@
    {
     "id":1,
     "date": "25/05/2020",
-    "spin1": 500,
+    "spin1": 1,
     "coin1": "2-million",
     "button": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBEAVzAC_20200527"
   },
    {
     "id":2,
     "date": "25/05/2020",
-    "spin1": 50000,
+    "spin1": 2,
     "coin1": 2000000,
     "button": ""
   },
    {
     "id":3,
     "date": "25/05/2020",
-    "spin1": 50000,
+    "spin1": 3,
     "coin1": 2000000,
     "button": ""
   },
    {
     "id":4,
     "date": "25/05/2020",
-    "spin1": 50000,
+    "spin1": 4,
     "coin1": 2000000,
     "button": ""
   }
