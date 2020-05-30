@@ -9,32 +9,32 @@
   
    {
     "id":3,
-    "spin1":" 0-spins",
-    "coin1": "1.2-million,
-    "button": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBjkqMOM_20200529"
+    "spin1":" 0 spins",
+    "coin1": "1.2 million,
+    "button": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBoFDiux_20200529"
   },
    {
     "id":4,
-    "spin1": "25-spins",
+    "spin1": "25 spins",
     "coin1": 0,
     "button": ""
    },
     {
     "id":5,
     "date": "28/05/2020",
-    "spin1": "25-spins",
+    "spin1": "25 spins",
     "coin1": 0,
     "button": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBSOiEpn_20200528"
   },
    {
     "id":6,
     "spin1": 0,
-    "coin1": "2-million",
+    "coin1": "2 million",
     "button": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWINcJQjT_20200528"
   },
     {
     "id":7,
-    "spin1":"25-spins",
+    "spin1":"25 spins",
     "coin1": 0,
     "button": "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBZAgzJG_20200528"
   }
